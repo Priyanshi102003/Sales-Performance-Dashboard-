@@ -7,7 +7,7 @@ The Sales Performance Dashboard is an interactive Power BI solution developed to
 
 It provides a centralized reporting system for better decision-making and performance tracking.
 
----
+
 
 ## 2. Project Objectives
 
@@ -18,7 +18,7 @@ It provides a centralized reporting system for better decision-making and perfor
 * Improve business decision-making using visual analytics
 * Enable interactive data filtering and exploration
 
----
+
 
 ## 3. Key Performance Indicators (KPIs)
 
@@ -29,7 +29,7 @@ It provides a centralized reporting system for better decision-making and perfor
 * Regional Sales Performance
 * Product Category Performance
 
----
+
 
 ## 4. Tools & Technologies Used
 
@@ -39,7 +39,7 @@ It provides a centralized reporting system for better decision-making and perfor
 * Data Cleaning and Transformation
 * Data Visualization Techniques
 
----
+
 
 ## 5. Dashboard Features
 
@@ -51,7 +51,7 @@ It provides a centralized reporting system for better decision-making and perfor
 * Interactive Slicers and Filters
 * Dynamic and User-Friendly Dashboard Interface
 
----
+
 
 ## 6. Data Processing Workflow
 
@@ -63,7 +63,7 @@ It provides a centralized reporting system for better decision-making and perfor
 6. Dashboard Design and Visualization
 7. Performance Analysis and Reporting
 
----
+
 
 ## 7. Business Impact
 
@@ -77,7 +77,7 @@ It helps businesses:
 * Monitor profitability efficiently
 * Enhance reporting and decision-making processes
 
----
+
 
 ## 8. Future Improvements
 
@@ -88,7 +88,7 @@ It helps businesses:
 * Advanced drill-through reporting
 * AI-powered business insights
 
----
+
 
 ## 9. Project Structure
 
@@ -102,7 +102,7 @@ Sales-Performance-Dashboard/
 └── README.md
 ```
 
----
+
 
 ## 10. Author
 
